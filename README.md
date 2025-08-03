@@ -69,3 +69,14 @@ python ButterDictExtract.py
     
 
 ⚠ 本工具仅用于合法用途，如忘记密码的文件恢复、渗透测试授权目标等，**禁止用于非法用途**。
+
+## 🆓 License
+
+This project is released under **The Unlicense**.
+
+> This is free and unencumbered software released into the public domain.  
+>  
+> Anyone is free to copy, modify, publish, use, compile, sell, or distribute this software, either in source code form or as a compiled binary, for any purpose, commercial or non-commercial, and by any means.  
+>  
+> For more information, please refer to [https://unlicense.org](https://unlicense.org)
+> 本项目完全开源公开，允许任何人以任何方式自由使用、修改、传播。
